@@ -40,4 +40,4 @@
 [twitter]: https://twitter.com/MushfiqurRobin
 [instagram]: https://www.instagram.com/mushfiqur._.rahman/
 [linkedin]: https://www.linkedin.com/in/mushfiqur--rahman/
-[email]: mushfiqur.rahman.robin@gmail.com
+[email]: <mushfiqur.rahman.robin@gmail.com>
