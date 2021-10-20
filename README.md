@@ -1,4 +1,4 @@
-### Hi there, I'm [Mushfiqur Rahman][website] 👋
+### Hi there, This is [Mushfiqur Rahman][website] 👋
 
 ## I'm a student, an aspiring full-stack data scientist, an ensthusiast in Cryptocurrency!!
 
@@ -23,9 +23,9 @@
 
 [<img align="left" alt="Mushfiqur-Rahman-Robin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-- 📫 Email Me: <mushfiqur.rahman.robin@gmail.com>
-
 <br />
+
+- 📫 Email Me: <mushfiqur.rahman.robin@gmail.com>
 
 ---
 
@@ -34,7 +34,7 @@
 
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Mushfiq's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mushfiqur-Rahman-Robin&show_icons=true&theme=radical"/>](https://github.com/Mushfiqur-Rahman-Robin/)
+  [<img align="left" alt="Mushfiq's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mushfiqur-Rahman-Robin&show_icons=true&theme=radical"/>](https://github.com/Mushfiqur-Rahman-Robin/)
 " />
 
 </details>
