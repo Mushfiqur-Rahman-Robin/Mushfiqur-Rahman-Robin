@@ -15,29 +15,17 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-[<img align="left" alt="Mushfiqur-Rahman-Robin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-[<img align="left" alt="Mushfiqur-Rahman-Robin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[<img align="left" alt="Mushfiqur-Rahman-Robin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+Reach me via [LinkedIn][linkedin] or [E-mail][email]. You can also check my [portfolio][website] to see my current progress.
 
 <br />
-
-- 📫 Email Me: <mushfiqur.rahman.robin@gmail.com>
 
 ---
 
 
-<details>
+[<img align="left" alt="Mushfiq's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mushfiqur-Rahman-Robin&show_icons=true&theme=radical"/>](https://github.com/Mushfiqur-Rahman-Robin/)
 
-  <summary>:zap: GitHub Stats</summary>
+<p><img align='right' src="https://komarev.com/ghpvc/?username=Mushfiqur-Rahman-Robin" alt="Mushfiqur-Rahman-Robin" /> </p>
 
-  [<img align="left" alt="Mushfiq's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mushfiqur-Rahman-Robin&show_icons=true&theme=radical"/>](https://github.com/Mushfiqur-Rahman-Robin/)
-" />
-
-</details>
 
 [website]: https://mushfiqur-rahman-robin.github.io/Portfolio/
 [twitter]: https://twitter.com/MushfiqurRobin
