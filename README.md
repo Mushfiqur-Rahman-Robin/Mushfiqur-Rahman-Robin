@@ -11,11 +11,11 @@
 - 🥅 Goals: Contributing more to Kaggle competitions and learning Reinforcement Learning.
 - ⚡ Fun fact: I Love to walk around the street at night to enjoy the city life among the lights. I also watch web series and movies in my pastime.
 
+---
+
 ### Connect with me:
 
 [<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-[<img align="left" alt="E-mail" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][email]
 
 [<img align="left" alt="Mushfiqur-Rahman-Robin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
@@ -23,15 +23,18 @@
 
 [<img align="left" alt="Mushfiqur-Rahman-Robin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+- 📫 Email Me: <mushfiqur.rahman.robin@gmail.com>
+
 <br />
 
 ---
 
 
 <details>
+
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Mushfiq's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mushfiqur-Rahman-Robin&show_icons=true&hide_border=true&theme=radical)
+  <img align="left" alt="Mushfiq's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mushfiqur-Rahman-Robin&show_icons=true&theme=radical"/>](https://github.com/Mushfiqur-Rahman-Robin/)
 " />
 
 </details>
