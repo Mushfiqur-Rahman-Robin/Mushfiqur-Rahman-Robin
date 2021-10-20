@@ -9,15 +9,13 @@
 - 👯 I’m looking to collaborate with the other researchers.
 - 📫 Reach me in LinkedIn/Email.
 - 🥅 Goals: Contributing more to Kaggle competitions and learning Reinforcement Learning.
-- ⚡ Fun fact: I Love to walk around the street at night to enjoy the city life among the lights. I also watch web series and movies in my pastime.
+- ⚡ Fun fact: Love to walk around the street at night to enjoy the city life. Web series/Movies in my leisure.
 
 ---
 
 ### Connect with me:
 
-Reach me via [LinkedIn][linkedin] or [E-mail][email]. You can also check my [portfolio][website] to see my current progress.
-
-<br />
+Reach me via [LinkedIn][linkedin] or [E-mail](mailto:mushfiqur.rahman.robin@gmail.com). You can check my [Portfolio][website] and [Researchgate][researchgate] profile to see my current progress. To get to know me better, follow me at [Facebook][facebook], [Instagram][instagram] and [Twitter][twitter].
 
 ---
 
@@ -27,8 +25,10 @@ Reach me via [LinkedIn][linkedin] or [E-mail][email]. You can also check my [por
 <p><img align='right' src="https://komarev.com/ghpvc/?username=Mushfiqur-Rahman-Robin" alt="Mushfiqur-Rahman-Robin" /> </p>
 
 
+
 [website]: https://mushfiqur-rahman-robin.github.io/Portfolio/
 [twitter]: https://twitter.com/MushfiqurRobin
 [instagram]: https://www.instagram.com/mushfiqur._.rahman/
 [linkedin]: https://www.linkedin.com/in/mushfiqur--rahman/
-[email]: <mushfiqur.rahman.robin@gmail.com>
+[researchgate]: https://www.researchgate.net/profile/Md-Rahman-1100
+[facebook]: https://www.facebook.com/mushfiqur.rahman.78/
