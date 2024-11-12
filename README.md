@@ -26,7 +26,7 @@ Reach me via [LinkedIn][linkedin] or [E-mail](mailto:mushfiqur.rahman.robin@gmai
 
 
 
-[website]: https://mushfiqur-rahman-robin.github.io/Portfolio/
+[website]: https://mushfiqur-rahman-robin.github.io/
 [twitter]: https://twitter.com/MushfiqurRobin
 [instagram]: https://www.instagram.com/mushfiqur._.rahman/
 [linkedin]: https://www.linkedin.com/in/mushfiqur--rahman/
