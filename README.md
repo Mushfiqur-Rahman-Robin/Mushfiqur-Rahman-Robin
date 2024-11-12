@@ -1,21 +1,21 @@
 ### Hi there, This is [Mushfiqur Rahman][website] 👋
 
-## I'm a student, an aspiring full-stack data scientist, an ensthusiast in Cryptocurrency!!
+## I'm a full-stack data scientist with a passion for world politics and the stock market, always eager to stay on top of new AI advancements and discoveries.
 
-- 🏁 My goal is to be a full-stack data scientist.
-- 🔭 I contributed in two research papers as the first author! 
-- 🌱 I’m currently learning Natural Language Processing. 😄
-- 💬 Ask me about machine learning, deep learning, neural networks.
+- 🏁 My goal is to be a full-stack data scientist with MLOps skills.
+- 🔭 I contributed to two research papers as the first author! 
+- 🌱 I'm diving into MLOps and AWS cloud technologies to expand my skill set. Exciting times ahead! 😄
+- 💬 Ask me about machine learning, deep learning, neural networks, and generative AI.
 - 👯 I’m looking to collaborate with the other researchers.
-- 📫 Reach me in LinkedIn/Email.
-- 🥅 Goals: Contributing more to Kaggle competitions and learning Reinforcement Learning.
-- ⚡ Fun fact: Love to walk around the street at night to enjoy the city life. Web series/Movies in my leisure.
+- 📫 Reach me on LinkedIn/Email.
+- 🥅 Goals: Explore MLOps and add MLOps skills to my arsenal.
+- ⚡ Fun fact: I love to walk around the street at night to enjoy the city life. Web series/Movies in my leisure. I can scroll Google Maps for endless hours.
 
 ---
 
 ### Connect with me:
 
-Reach me via [LinkedIn][linkedin] or [E-mail](mailto:mushfiqur.rahman.robin@gmail.com). You can check my [Portfolio][website] and [Researchgate][researchgate] profile to see my current progress. To get to know me better, follow me at [Facebook][facebook], [Instagram][instagram] and [Twitter][twitter].
+Reach me via [LinkedIn][linkedin] or [E-mail](mailto:mushfiqur.rahman.robin@gmail.com). You can check my [Portfolio][website], [Google Scholar][googlescholar], and [Researchgate][researchgate] profile to see my current progress. To get to know me better, follow me at [Facebook][facebook], [Instagram][instagram] and [Twitter][twitter].
 
 ---
 
@@ -32,3 +32,4 @@ Reach me via [LinkedIn][linkedin] or [E-mail](mailto:mushfiqur.rahman.robin@gmai
 [linkedin]: https://www.linkedin.com/in/mushfiqur--rahman/
 [researchgate]: https://www.researchgate.net/profile/Md-Rahman-1100
 [facebook]: https://www.facebook.com/mushfiqur.rahman.78/
+[googlescholar]: https://scholar.google.com/citations?user=2-Z5fHgAAAAJ
