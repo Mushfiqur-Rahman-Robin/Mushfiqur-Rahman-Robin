@@ -1,6 +1,6 @@
 ### Hi there, This is [Mushfiqur Rahman][website] 👋
 
-## I'm a full-stack data scientist with a passion for world politics and the stock market, always eager to stay on top of new AI advancements and discoveries.
+## I'm a full-stack data scientist with a passion for history, economy, and stock market. I am always eager to stay on top of new AI advancements and discoveries.
 
 - 🏁 My goal is to be a full-stack data scientist with MLOps skills.
 - 🔭 I contributed to two research papers as the first author! 
@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate with the other researchers.
 - 📫 Reach me on LinkedIn/Email.
 - 🥅 Goals: Explore MLOps and add MLOps skills to my arsenal.
-- ⚡ Fun fact: I love to walk around the street at night to enjoy the city life. Web series/Movies in my leisure. I can scroll Google Maps for endless hours.
+- ⚡ Fun fact: I love to walk around the street at night to enjoy the city life. I can scroll Google Maps for endless hours.
 
 ---
 
