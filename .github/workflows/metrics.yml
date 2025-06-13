@@ -2,21 +2,22 @@ name: Generate Tools & Languages SVG
 
 on:
   schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+    - cron: '0 0 * * *' # Runs daily at midnight UTC
+  workflow_dispatch: # Allows manual triggering
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v4
+    - name: Checkout repository
+      uses: actions/checkout@v4
       with:
         persist-credentials: false
+        token: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Generate metrics SVG
       uses: lowlighter/metrics@latest
-      id: metrics
       with:
         token: ${{ secrets.METRICS_TOKEN }}
         filename: metrics.tools.svg
@@ -26,7 +27,7 @@ jobs:
         plugin_topics_limit: 20
         base: ""
 
-    - name: Save SVG to repo
+    - name: Create directory and move SVG
       run: |
         mkdir -p generated
         mv metrics.tools.svg generated/metrics.tools.svg
@@ -42,3 +43,11 @@ jobs:
       uses: ad-m/github-push-action@v1
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: master 
+    - name: Debug (if needed)
+      if: failure()
+      run: |
+        echo "Workflow failed. Checking directory contents:"
+        ls -la
+        echo "Checking generated directory:"
+        ls -la generated || echo "generated directory not found"
