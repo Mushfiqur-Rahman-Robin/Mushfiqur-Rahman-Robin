@@ -16,8 +16,28 @@ jobs:
           plugin_tools: yes
           plugin_tools_limit: 32
           plugin_tools_sections: "most-used"
-          plugin_tools_sort: "favorite" 
-          
+          plugin_tools_sort: "favorite"
+
+          plugin_tools_override: |
+            python: simple-icons:python
+            fastapi: simple-icons:fastapi
+            langchain: 🔗
+            docker: simple-icons:docker
+            tensorflow: simple-icons:tensorflow
+            pytorch: simple-icons:pytorch
+            scikit-learn: simple-icons:scikitlearn
+            hugging face: simple-icons:huggingface
+            opencv: simple-icons:opencv
+            streamlit: simple-icons:streamlit
+            mlflow: simple-icons:mlflow
+            dvc: simple-icons:dvc
+            pinecone: simple-icons:pinecone
+            postgresql: simple-icons:postgresql
+            sql: devicon:plain
+            git: simple-icons:git
+            github actions: simple-icons:githubactions
+            jupyter: simple-icons:jupyter
+
           user: Mushfiqur-Rahman-Robin
           config_timezone: Asia/Dhaka
           filename: metrics.tools.svg
