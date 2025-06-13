@@ -2,18 +2,19 @@ name: GitHub Profile Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # daily run
+    - cron: "0 0 * * *"  # every day
   workflow_dispatch:
 
 jobs:
-  profile-metrics:
+  github-metrics:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.tools.svg
+          base: ""
           plugin_languages: yes
           plugin_topics: yes
           plugin_topics_mode: icons
-          plugin_topics_limit: 15
-          base: "classic"
+          plugin_topics_limit: 20
