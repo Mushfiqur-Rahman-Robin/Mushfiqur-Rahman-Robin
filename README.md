@@ -15,7 +15,7 @@
 
 ### Connect with me:
 
-Reach me via [LinkedIn][linkedin] or [E-mail](mailto:mushfiqur.rahman.robin@gmail.com). You can check my [Portfolio][website], [Google Scholar][googlescholar], and [Researchgate][researchgate] profile to see my current progress. To get to know me better, follow me at [Facebook][facebook], [Instagram][instagram] and [Twitter][twitter].
+Reach me via [LinkedIn][linkedin] or [E-mail](mailto:mushfiqur.rahman.robin@gmail.com). You can check my [Portfolio][website], [Hugging Face][huggingface],[Google Scholar][googlescholar], and [Researchgate][researchgate] profile to see my current progress. To get to know me better, follow me at [Facebook][facebook], [Instagram][instagram] and [Twitter][twitter].
 
 ---
 
@@ -33,3 +33,4 @@ Reach me via [LinkedIn][linkedin] or [E-mail](mailto:mushfiqur.rahman.robin@gmai
 [researchgate]: https://www.researchgate.net/profile/Md-Rahman-1100
 [facebook]: https://www.facebook.com/mushfiqur.rahman.78/
 [googlescholar]: https://scholar.google.com/citations?user=2-Z5fHgAAAAJ
+[huggingface]: https://huggingface.co/mushfiqurrobin
