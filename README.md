@@ -17,11 +17,11 @@ Reach me via [LinkedIn][linkedin] or [E-mail](mailto:mushfiqur.rahman.robin@gmai
 
 ---
 
-### 🧰 Languages & Tools I Use
+### GitHub Metrics
 
 <img
   src="https://raw.githubusercontent.com/Mushfiqur-Rahman-Robin/Mushfiqur-Rahman-Robin/master/metrics.tools.svg"
-  alt="Languages & Tools I Use"
+  alt="GitHub Metrics"
 />
 
 ---
