@@ -1,11 +1,38 @@
-name: Minimal Workflow Test
-
+name: GitHub Metrics
 on:
-  workflow_dispatch: # Manual trigger only
+  # Schedule updates (runs every day at midnight)
+  schedule: [{ cron: "0 0 * * *" }]
+  # Allows to run this workflow manually from the Actions tab
+  workflow_dispatch:
+  # Run on pushes to master/main branch
+  push: { branches: ["master", "main"] }
 
 jobs:
-  test:
+  github-metrics:
     runs-on: ubuntu-latest
     steps:
-    - name: Run a simple command
-      run: echo "This workflow is working!"
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          # The PAT is required to push to another repository
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # GITHUB_TOKEN is a special token that's automatically created by GitHub
+          # We'll use it for retrieving stats, but the PAT for pushing
+          committer_token: ${{ secrets.METRICS_TOKEN }}
+          committer_repository: Mushfiqur-Rahman-Robin/generated
+
+          # Options
+          user: Mushfiqur-Rahman-Robin
+          template: classic
+          base: "" # We only want the tools plugin for this file
+          config_timezone: Asia/Dhaka # Important for correct commit times
+
+          # Enable the tools plugin
+          plugin_tools: yes
+          plugin_tools_sections: "most-used" # Display most used tools
+          plugin_tools_limit: 15
+          plugin_tools_ignored: "" # Add tools to ignore here if needed
+
+          # Output to a file named metrics.tools.svg
+          filename: metrics.tools.svg
