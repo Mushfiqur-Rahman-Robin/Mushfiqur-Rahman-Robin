@@ -1,29 +1,34 @@
 ### Hi there, This is [Mushfiqur Rahman][website] 👋
 
-## I'm a full-stack data scientist with a passion for history, economy, and stock market. I am always eager to stay on top of new AI advancements and discoveries.
+## I'm a full-stack data scientist with a passion for history, economy, and the stock market. I am always eager to stay on top of new AI advancements and discoveries.
 
 - 🏁 My goal is to be a full-stack data scientist with MLOps skills.
-- 🔭 I contributed to two research papers as the first author! 
-- 🌱 I'm diving into MLOps and AWS cloud technologies to expand my skill set. Exciting times ahead! 😄
+- 🔭 I contributed to **two research papers** as the **first author!**
+- 🌱 I'm diving into MLOps and AWS cloud technologies. Exciting times ahead! 😄
 - 💬 Ask me about machine learning, deep learning, neural networks, and generative AI.
-- 👯 I’m looking to collaborate with the other researchers.
-- 📫 Reach me on LinkedIn/Email.
-- 🥅 Goals: Explore MLOps and add MLOps skills to my arsenal.
-- ⚡ Fun fact: I love to walk around the street at night to enjoy the city life. I can scroll Google Maps for endless hours.
-
+- 👯 I’m looking to collaborate with other researchers.
+- 📫 Reach me on [LinkedIn][linkedin] or [Email](mailto:mushfiqur.rahman.robin@gmail.com).
+- ⚡ Fun fact: I love walking around the city at night and scrolling Google Maps for hours.
 ---
 
 ### Connect with me:
 
-Reach me via [LinkedIn][linkedin] or [E-mail](mailto:mushfiqur.rahman.robin@gmail.com). You can check my [Portfolio][website], [Hugging Face][huggingface],[Google Scholar][googlescholar], and [Researchgate][researchgate] profile to see my current progress. To get to know me better, follow me at [Facebook][facebook], [Instagram][instagram] and [Twitter][twitter].
+Reach me via [LinkedIn][linkedin] or [E-mail](mailto:mushfiqur.rahman.robin@gmail.com). You can check my [Portfolio][website], [Hugging Face][huggingface], [Google Scholar][googlescholar], and [Researchgate][researchgate] profile to see my current progress. To get to know me better, follow me at [Facebook][facebook], [Instagram][instagram] and [Twitter][twitter].
 
 ---
 
+### 🧰 Languages & Tools I Use
 
-[<img align="left" alt="Mushfiq's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mushfiqur-Rahman-Robin&show_icons=true&theme=radical"/>](https://github.com/Mushfiqur-Rahman-Robin/)
+<img src="metrics.tools.svg" alt="Languages & Tools" align="center"/>
 
-<p><img align='right' src="https://komarev.com/ghpvc/?username=Mushfiqur-Rahman-Robin" alt="Mushfiqur-Rahman-Robin" /> </p>
 
+### 📊 GitHub Stats
+---
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mushfiqur-Rahman-Robin&show_icons=true&theme=radical&count_private=true" height="170"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mushfiqur-Rahman-Robin&layout=compact&theme=radical" height="170"/> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Mushfiqur-Rahman-Robin&label=Profile%20Views&style=flat" /> </p>
+
+---
 
 
 [website]: https://mushfiqur-rahman-robin.github.io/
