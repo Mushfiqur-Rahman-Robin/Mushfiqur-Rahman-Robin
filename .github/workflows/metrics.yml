@@ -13,7 +13,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Configuration for "Languages & Tools"
-          # base: "" # Render only the plugins below
+          base: "" # Render only the plugins below
           plugin_tools: yes
           plugin_tools_limit: 32
           plugin_tools_sections: "most-used"
