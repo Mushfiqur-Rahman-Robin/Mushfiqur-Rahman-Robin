@@ -20,7 +20,7 @@ Reach me via [LinkedIn][linkedin] or [E-mail](mailto:mushfiqur.rahman.robin@gmai
 ### 🧰 Languages & Tools I Use
 
 <p align="center">
-  <img src="./generated/metrics.tools.svg" alt="Languages & Tools I Use" />
+  <img src="https://github.com/Mushfiqur-Rahman-Robin/generated/metrics.tools.svg" alt="Languages & Tools I Use" />
 </p>
 
 ---

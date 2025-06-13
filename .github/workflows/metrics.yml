@@ -2,8 +2,8 @@ name: Generate Tools & Languages SVG
 
 on:
   schedule:
-    - cron: '0 0 * * *'         # Runs daily at midnight UTC
-  workflow_dispatch:           
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
@@ -36,7 +36,6 @@ jobs:
         git config --local user.name "GitHub Action"
         git config --local user.email "actions@github.com"
         git add generated/metrics.tools.svg
-        # Only commit if there are changes
         git diff --cached --quiet || git commit -m "⚙️ Update generated metrics SVG"
 
     - name: Push changes
