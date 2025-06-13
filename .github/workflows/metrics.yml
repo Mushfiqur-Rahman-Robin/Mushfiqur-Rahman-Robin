@@ -1,3 +1,5 @@
+# .github/workflows/metrics.yml
+
 name: GitHub Metrics
 on:
   # Schedule updates (runs every day at midnight)
@@ -13,26 +15,24 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
-          # The PAT is required to push to another repository
-          token: ${{ secrets.METRICS_TOKEN }}
+          # We now use the default GITHUB_TOKEN because we are committing
+          # to the same repository where the action is running.
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-          # GITHUB_TOKEN is a special token that's automatically created by GitHub
-          # We'll use it for retrieving stats, but the PAT for pushing
-          committer_token: ${{ secrets.METRICS_TOKEN }}
-          committer_repository: Mushfiqur-Rahman-Robin/generated
+          # We have REMOVED the `committer_repository` line so the action
+          # commits to this repository by default.
 
           # Options
           user: Mushfiqur-Rahman-Robin
           template: classic
           base: "" # We only want the tools plugin for this file
-          config_timezone: Asia/Dhaka # Important for correct commit times
+          config_timezone: Asia/Dhaka
 
           # Enable the tools plugin
           plugin_tools: yes
-          plugin_tools_sections: "most-used" # Display most used tools
-          plugin_tools_limit: 15
-          plugin_tools_ignored: "" # Add tools to ignore here if needed
+          plugin_tools_sections: "most-used"
+          plugin_tools_limit: 8
+          plugin_tools_ignored: ""
 
-          # Output to a file named metrics.tools.svg
+          # Output to a file named metrics.tools.svg in the root of this repo
           filename: metrics.tools.svg
