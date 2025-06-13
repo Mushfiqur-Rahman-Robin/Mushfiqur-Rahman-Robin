@@ -1,12 +1,9 @@
-# .github/workflows/metrics.yml
-
 name: GitHub Metrics
 on:
   # Schedule updates (runs every day at midnight)
   schedule: [{ cron: "0 0 * * *" }]
-  # Allows to run this workflow manually from the Actions tab
   workflow_dispatch:
-  # Run on pushes to master/main branch
+
   push: { branches: ["master", "main"] }
 
 jobs:
@@ -15,17 +12,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # We now use the default GITHUB_TOKEN because we are committing
-          # to the same repository where the action is running.
           token: ${{ secrets.GITHUB_TOKEN }}
 
-          # We have REMOVED the `committer_repository` line so the action
-          # commits to this repository by default.
-
-          # Options
           user: Mushfiqur-Rahman-Robin
           template: classic
-          base: "" # We only want the tools plugin for this file
           config_timezone: Asia/Dhaka
 
           # Enable the tools plugin
@@ -34,5 +24,4 @@ jobs:
           plugin_tools_limit: 8
           plugin_tools_ignored: ""
 
-          # Output to a file named metrics.tools.svg in the root of this repo
           filename: metrics.tools.svg
