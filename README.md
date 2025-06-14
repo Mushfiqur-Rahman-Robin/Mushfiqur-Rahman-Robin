@@ -54,6 +54,7 @@ Reach me via [LinkedIn][linkedin] or [E-mail](mailto:mushfiqur.rahman.robin@gmai
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
       <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+      <img src="https://img.shields.io/badge/Roboflow-101010?style=for-the-badge&logo=roboflow&logoColor=white" alt="Roboflow" />
     </td>
   </tr>
   <tr>
@@ -64,6 +65,9 @@ Reach me via [LinkedIn][linkedin] or [E-mail](mailto:mushfiqur.rahman.robin@gmai
       <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
       <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge" alt="Gemini" />
       <img src="https://img.shields.io/badge/Hugging Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+      <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge" alt="Ollama" />
+      <img src="https://img.shields.io/badge/MCP%20Protocol-3333CC?style=for-the-badge" alt="MCP Protocol" />
+      <img src="https://img.shields.io/badge/A2A%20Protocol-007BFF?style=for-the-badge" alt="A2A Protocol" />
       <img src="https://img.shields.io/badge/Pinecone-008080?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
       <img src="https://img.shields.io/badge/FAISS-4169E1?style=for-the-badge" alt="FAISS" />
       <img src="https://img.shields.io/badge/ChromaDB-6E4B78?style=for-the-badge" alt="ChromaDB" />
@@ -107,9 +111,12 @@ Reach me via [LinkedIn][linkedin] or [E-mail](mailto:mushfiqur.rahman.robin@gmai
       <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
       <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+      <img src="https://img.shields.io/badge/Cursor-1F1F1F?style=for-the-badge" alt="Cursor" />
+      <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
     </td>
   </tr>
 </table>
+
 
 ---
 
