@@ -1,6 +1,6 @@
 ### Hi there, This is [Mushfiqur Rahman][website] 👋
 
-## I'm a full-stack data scientist with a passion for history, economy, and the stock market. I am always eager to stay on top of new AI advancements and discoveries.
+## I'm a full-stack data scientist with a passion for history, economy, and the stock market. I am always eager to stay up-to-date with the latest AI advancements and discoveries.
 
 - 🏁 My goal is to be a full-stack data scientist with MLOps skills.
 - 🔭 I contributed to **two research papers** as the **first author!**
@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-Reach me via [LinkedIn][linkedin] or [E-mail](mailto:mushfiqur.rahman.robin@gmail.com). You can check my [Portfolio][website], [Hugging Face][huggingface], [Google Scholar][googlescholar], and [Researchgate][researchgate] profile to see my current progress. To get to know me better, follow me at [Facebook][facebook], [Instagram][instagram] and [Twitter][twitter].
+Reach me via [LinkedIn][linkedin] or [E-mail](mailto:mushfiqur.rahman.robin@gmail.com). You can check my [Portfolio][website], [Hugging Face][huggingface], [Google Scholar][googlescholar], and [Researchgate][researchgate] profile to see my current progress. To get to know me better, follow me at [Facebook][facebook], [Instagram][Instagram], and [Twitter][twitter].
 
 
 ---
@@ -132,7 +132,7 @@ Reach me via [LinkedIn][linkedin] or [E-mail](mailto:mushfiqur.rahman.robin@gmai
 ---
 
 
-[website]: https://mushfiqur-rahman-robin.github.io/
+[website]: https://mushfiqurrahmanrobin.com/
 [twitter]: https://twitter.com/MushfiqurRobin
 [instagram]: https://www.instagram.com/mushfiqur._.rahman/
 [linkedin]: https://www.linkedin.com/in/mushfiqur--rahman/
