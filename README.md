@@ -15,7 +15,6 @@
 
 Reach me via [LinkedIn][linkedin] or [E-mail](mailto:mushfiqur.rahman.robin@gmail.com). You can check my [Portfolio][website], [Hugging Face][huggingface], [Google Scholar][googlescholar], and [Researchgate][researchgate] profile to see my current progress. To get to know me better, follow me at [Facebook][facebook], [Instagram][Instagram], and [Twitter][twitter].
 
-
 ---
 
 <h3>🛠️ My Tech Stack</h3>
@@ -92,6 +91,14 @@ Reach me via [LinkedIn][linkedin] or [E-mail](mailto:mushfiqur.rahman.robin@gmai
       <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white" alt="CircleCI" />
       <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
       <img src="https://img.shields.io/badge/DVC-8E43E7?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC" />
+      <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Apache Airflow" />
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>☁️ Cloud</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
     </td>
   </tr>
   <tr>
@@ -119,9 +126,7 @@ Reach me via [LinkedIn][linkedin] or [E-mail](mailto:mushfiqur.rahman.robin@gmai
   </tr>
 </table>
 
-
 ---
-
 
 ### 📊 GitHub Stats
 ---
@@ -130,7 +135,6 @@ Reach me via [LinkedIn][linkedin] or [E-mail](mailto:mushfiqur.rahman.robin@gmai
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mushfiqur-Rahman-Robin&layout=compact&theme=radical" height="170"/> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Mushfiqur-Rahman-Robin&label=Profile%20Views&style=flat" /> </p>
 
 ---
-
 
 [website]: https://mushfiqurrahmanrobin.com/
 [twitter]: https://twitter.com/MushfiqurRobin
