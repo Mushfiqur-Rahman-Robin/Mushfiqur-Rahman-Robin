@@ -123,6 +123,7 @@ Reach me via [LinkedIn][linkedin] or [E-mail](mailto:mushfiqur.rahman.robin@gmai
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
       <img src="https://img.shields.io/badge/Cursor-1F1F1F?style=for-the-badge" alt="Cursor" />
       <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+      <img src="https://img.shields.io/badge/n8n-1f7aff?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
     </td>
   </tr>
 </table>
